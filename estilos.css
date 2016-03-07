@@ -1,0 +1,20 @@
+body{
+	background: red;
+}
+h1{
+	text-align: center;
+    color: white;
+}
+p{
+	text-align: center;
+	color:black;
+	font-size: 30px;
+}
+img{
+	width: 1500px;
+}
+.mi-video{
+ 	margin-top: 40px;
+ }
+ .mi-video video{
+	    width: 350px;
