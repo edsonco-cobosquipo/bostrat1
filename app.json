@@ -1,0 +1,13 @@
+{
+  "name": "bostrat1",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
